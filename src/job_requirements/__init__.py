@@ -1,0 +1,1 @@
+# Job requirements module for universal recruitment system
